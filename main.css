@@ -1,0 +1,54 @@
+*{
+
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+body {
+    background-color: rgb(168, 186, 202);
+    padding-top: 50px;
+}
+
+header {
+    margin: 25px;
+}
+
+form {
+    margin: px;
+    
+    }
+
+input{
+    margin-left: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+button {
+    background-color:green;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 20px ;
+    cursor: pointer;
+}
+
+table {
+    padding: 25px;
+    margin-top: 35px;
+    width: 100%;
+}
+
+table th {
+    border-bottom: 2px solid black;
+    padding: 16px;
+    font-size: 24px;
+}
+
+table td{
+    text-align: center;
+    font-size: 18px;
+    padding: 16px 0;
+    border-bottom: 1px solid rgba(0,0,0, 0.2);
+
+}
